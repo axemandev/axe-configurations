@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: axe-catalog
+
+axe:
+  ctx1: sonal
+  ctx2: parag
